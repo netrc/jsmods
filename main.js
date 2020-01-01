@@ -1,3 +1,4 @@
+'use strict';  // make it so
 
 import { name, ft1 } from './lib/t1.js'
 

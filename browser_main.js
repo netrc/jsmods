@@ -1,3 +1,4 @@
+// automatic strict mode
 
 import { name, ft1 } from './lib/t1.js'
 

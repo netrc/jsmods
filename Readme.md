@@ -3,8 +3,9 @@
 import modules....
 
 * main and lib/* end in .js
-* package.json has { "type": "module" }
+* must have: package.json has { "type": "module" }
 * node 12 and --experimental-modules
+* node 13 doesn't need option (still needs package.json)
 
 
 index.html
